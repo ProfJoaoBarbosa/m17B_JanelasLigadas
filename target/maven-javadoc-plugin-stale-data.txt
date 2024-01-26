@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'m17B_JanelasLigadas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'m17B_JanelasLigadas 1.0-SNAPSHOT API'
+psi.o.m17b_janelasligadas
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/src/main/java = 1706264138006
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/index.html = 1706267851661
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/element-list = 1706267851553
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/type-search-index.js = 1706267851649
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/module-search-index.js = 1706267851649
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/index-all.html = 1706267851661
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/jquery-ui.overrides.css = 1706267851677
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/allclasses-index.html = 1706267851645
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/serialized-form.html = 1706267851601
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/tag-search-index.js = 1706267851649
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/help-doc.html = 1706267851669
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/member-search-index.js = 1706267851649
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/search.js = 1706267851669
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/script.js = 1706267851669
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/stylesheet.css = 1706267851669
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/package-search-index.js = 1706267851649
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/overview-tree.html = 1706267851625
+/home/DPED/f133/NetBeansProjects/m17B_JanelasLigadas/target/site/apidocs/allpackages-index.html = 1706267851649
